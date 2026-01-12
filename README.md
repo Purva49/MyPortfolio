@@ -31,6 +31,17 @@ These technologies make the website responsive, modern, and interactive.
 | Images (`*.jpg`) | Visual content for the portfolio |
 | Other assets  | Supporting files and visuals |
 
+## Code Structure
+MyPortfolio/
+│
+├── index.html        → Main HTML file of the portfolio
+├── styles.css        → CSS file for styling
+├── styles.scss       → SCSS source file
+├── main.js           → JavaScript file for interactivity
+├── images/           → Images used in the portfolio
+├── screenshots/      → Screenshots of the working application
+└── README.md         → Project documentation
+
 ---
 
 ## View Live
@@ -54,4 +65,5 @@ You can view the live portfolio (if deployed on GitHub Pages or other hosting):
 1. Clone the repository  
    ```bash
    git clone https://github.com/Purva49/MyPortfolio.git
+
 
